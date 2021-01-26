@@ -1,0 +1,2 @@
+# staticc
+static
